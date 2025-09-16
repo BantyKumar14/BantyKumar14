@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Banty Kumar!
 
 <p align="center">
-  <img src="https://github.com/BantyKumar14/Banty2003/blob/main/Banty12.png?raw=true" />
+  <img src="https://github.com/BantyKumar14/BantyKumar14/blob/main/Banty12.png?raw=true" />
 </p>
 
 
