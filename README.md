@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**BantyKumar14/BantyKumar14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Banty Kumar!
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/BantyKumar14/Banty2003/blob/main/Banty12.png?raw=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on Python & Data Analytics  
+- 🌱 I’m learning Machine Learning  
+- 👯 I’m looking to collaborate on GitHub projects  
+- 📫 How to reach me: www.linkedin.com/in/banty-kumar-68435b270
+
+- ⚡ Fun fact: I love coding while listening to music 🎵  
+
+## 🚀 My Skills
+- Python 🐍
+- Excel 📊
+- SQL 💾
+- Data Visualization 📈
+- Java 📊
+- CCNA 📊
+- DSA📈
+
+- ## 📊 GitHub Stats
+![Banty Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BantyKumar14&show_icons=true&theme=radical)
